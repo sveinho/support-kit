@@ -1,3 +1,3 @@
-- [Read Me](README)
+- [How to get started](how-to-get-started)
 - [Example Second Page](second-page)
 - [Example Svein](svein)
